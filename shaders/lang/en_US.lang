@@ -1,0 +1,6 @@
+option.TESTINFO = §dTest Info
+option.TESTINFO.comment = yo
+value.TESTINFO.0= §ctest
+value.TESTINFO.1 = §atesting
+
+screen.COLOR = §bColor
